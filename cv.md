@@ -1,7 +1,7 @@
 # My Summary for RSSchool 2020q1
 
 1. *Name:* **Dziubanau Aliaksei**
-2. *Contacts:* **Mobile number/VIBER/WhatsApp:** 375445143063, **skype:** mrdubell, **mail:** dubell1986@gmail.com
+2. *Contacts:* **Mobile number/VIBER/WhatsApp:** +375445143063, **skype:** mrdubell, **mail:** dubell1986@gmail.com
 3. *Summary:* (I don't think I have enough knowledge at the moment to get a job, but I will continue study to improve my knowledge and get a job in IT.)
 
 4. *Skills*: **HTML/CSS/vanilla JS** ... In plans:  
