@@ -47,6 +47,10 @@ article {
   padding-left: 50px;
 }
 
+ol{
+  padding-left: 17px
+}
+
 .avatar img {
   height: 250px;
   border-radius: 50%;
