@@ -24,6 +24,25 @@
 - UI/UX,
 - and more..
 ---
+**_Code example_**
+```
+var moveZeros = function (arr) {
+  let finalArr = [], count = 0
+  arr.forEach((item) => {
+    if(item !== 0){
+      newArr.push(item)
+    }
+    else{
+      count += 1
+    }
+  })
+  for(let i = 0; i < count; i++){
+    newArr.push(0)
+  }
+  return finalArr
+}
+```
+---
 **_Education_**
 
 ### Higher education (Economic). As for the IT - only self-education
