@@ -13,7 +13,7 @@ _<https://github.com/mrDubell>_
 > but I will continue study to improve my knowledge and get a job in IT..
 
 ### **_Skills_** :  HTML/CSS/vanilla JS …
-
+---
 **_In plans:_**
 - JS frameworks/libraries (React, Angular, Vue, JQuery),
 - CSS preprocessors,
@@ -21,10 +21,10 @@ _<https://github.com/mrDubell>_
 - Data bases,
 - UI/UX,
 - and more..
-
+---
 **_Education_**
 Higher education (Economic). As for the IT - only self-education
-
+---
 **_English level_**
 ## B1
 
