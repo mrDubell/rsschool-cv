@@ -13,6 +13,7 @@
 **_Summary_**
 > I don’t think I have enough knowledge at the moment to get a job, 
 > but I will continue study to improve my knowledge and get a job in IT..
+
 ---
 ### **_Skills_** :  HTML/CSS/vanilla JS …
 ---
@@ -23,6 +24,7 @@
 - Data bases,
 - UI/UX,
 - and more..
+
 ---
 **_Code example_**
 ```
