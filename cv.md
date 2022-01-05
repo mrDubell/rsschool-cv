@@ -21,12 +21,10 @@ _<https://github.com/mrDubell>_
 - Data bases,
 - UI/UX,
 - and more..
-
 ---
-
 **_Education_**
 Higher education (Economic). As for the IT - only self-education
 ---
 **_English level_**
 ## B1
-
+___
