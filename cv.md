@@ -11,7 +11,7 @@ _<https://github.com/mrDubell>_
 **_Summary_**
 > I don’t think I have enough knowledge at the moment to get a job, 
 > but I will continue study to improve my knowledge and get a job in IT..
-
+---
 ### **_Skills_** :  HTML/CSS/vanilla JS …
 ---
 **_In plans:_**
