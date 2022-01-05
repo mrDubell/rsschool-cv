@@ -1,7 +1,7 @@
 # Aliaksei Dziubanau
 ---
 **_Mail_**
-_dubell1986@gmail.com_
+_<dubell1986@gmail.com>_
 ---
 **_Github_**  
 _<https://github.com/mrDubell>_
