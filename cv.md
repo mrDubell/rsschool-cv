@@ -2,11 +2,13 @@
 
 **_Mail_**
 
-_<dubell1986@gmail.com>_
----
+[dubell1986@gmail.com](mailto:dubell1986@gmail.com)
+
 **_Github_**
 
-_<https://github.com/mrDubell>_
+[mrDubell](https://github.com/mrDubell)
+
+
 ---
 **_Summary_**
 > I don’t think I have enough knowledge at the moment to get a job, 
@@ -23,8 +25,8 @@ _<https://github.com/mrDubell>_
 - and more..
 ---
 **_Education_**
-Higher education (Economic). As for the IT - only self-education
+
+### Higher education (Economic). As for the IT - only self-education
 ---
 **_English level_**
 ## B1
-
